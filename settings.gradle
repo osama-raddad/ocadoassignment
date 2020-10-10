@@ -2,5 +2,5 @@ rootProject.name = "Ocado Assignment"
 include ':app'
 include ':data'
 include ':repository'
-include ':data_model'
+include ':dto'
 include ':domain'

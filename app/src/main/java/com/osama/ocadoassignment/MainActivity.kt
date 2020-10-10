@@ -1,8 +1,6 @@
 package com.osama.ocadoassignment
 
-import android.app.ProgressDialog.show
 import android.os.Bundle
-import android.provider.Contacts
 import android.widget.Toast
 import androidx.annotation.UiThread
 import androidx.appcompat.app.AppCompatActivity

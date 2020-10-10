@@ -1,8 +1,8 @@
 package com.osama.domain.categorized_products.util
 
-import com.osama.data_model.cluster.Cluster
-import com.osama.data_model.cluster.Clusters
-import com.osama.data_model.cluster.Item
+import com.osama.dto.cluster.Cluster
+import com.osama.dto.cluster.Clusters
+import com.osama.dto.cluster.Item
 import com.osama.domain.entity.CategorizedProduct
 import com.osama.domain.entity.Transaction
 import com.osama.repository.Result

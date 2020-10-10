@@ -4,8 +4,8 @@ import com.google.common.annotations.VisibleForTesting
 import com.osama.data.network.DaggerNetworkComponent
 import com.osama.data.network.OcadoStoreClient
 import com.osama.data.network.ResponseResultMapper
-import com.osama.data_model.cluster.Clusters
-import com.osama.data_model.product.Product
+import com.osama.dto.cluster.Clusters
+import com.osama.dto.product.Product
 import com.osama.repository.Result
 import com.osama.repository.StoreRepository
 import javax.inject.Inject

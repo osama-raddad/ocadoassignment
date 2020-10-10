@@ -1,7 +1,7 @@
 package com.osama.repository
 
-import com.osama.data_model.cluster.Clusters
-import com.osama.data_model.product.Product
+import com.osama.dto.cluster.Clusters
+import com.osama.dto.product.Product
 
 public interface StoreRepository {
     suspend fun getProducts(): Result<Clusters?>
