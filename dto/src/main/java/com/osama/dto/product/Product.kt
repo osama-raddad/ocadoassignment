@@ -1,4 +1,4 @@
-package com.osama.data_model.product
+package com.osama.dto.product
 
 
 data class Product(

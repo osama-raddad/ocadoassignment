@@ -1,4 +1,4 @@
-package com.osama.data_model.cluster
+package com.osama.dto.cluster
 
 
 
