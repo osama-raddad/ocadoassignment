@@ -4,8 +4,6 @@ import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.observe
-import com.osama.domain.categorized_products.GetCategorizedProductsUseCaseImpl
-import com.osama.domain.detailed_product.GetDetailedProductUseCaseImpl
 import com.osama.domain.entity.DetailedProduct
 import com.osama.ocadoassignment.ProductViewModel
 import com.osama.ocadoassignment.R

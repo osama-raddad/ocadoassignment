@@ -1,6 +1,5 @@
 package com.osama.ocadoassignment
 
-import androidx.lifecycle.SavedStateHandle
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.liveData
 import com.osama.domain.categorized_products.GetCategorizedProductsUseCaseImpl

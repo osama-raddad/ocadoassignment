@@ -5,8 +5,6 @@ import android.util.Log
 import android.view.View
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
-import com.osama.domain.categorized_products.GetCategorizedProductsUseCaseImpl
-import com.osama.domain.detailed_product.GetDetailedProductUseCaseImpl
 import com.osama.domain.entity.CategorizedProduct
 import com.osama.ocadoassignment.ProductViewModel
 import com.osama.ocadoassignment.R
