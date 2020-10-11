@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Ocado Assignment</string>
+    <string name="title_activity_product_details">Product Details</string>
+    <string name="title_activity_product_listing">Product Listing</string>
+    <string name="product_image">Product Image</string>
+    <string name="price">price :</string>
 </resources>
